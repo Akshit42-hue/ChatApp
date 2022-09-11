@@ -22,7 +22,7 @@ func main() {
 	if err != nil {
 		log.Fatalf("Could not listen @ %v :: %v", Port, err)
 	}
-	log.Println("Listening @ : " + Port)
+	log.Println("Listening localhost @ : " + Port)
 
 	//gRPC server instance
 	grpcserver := grpc.NewServer()
