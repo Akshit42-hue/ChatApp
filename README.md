@@ -8,7 +8,8 @@ Open the terminal and run the server
 ```sh
 go run server.go
 ```
-![Screenshot from 2022-09-11 16-19-08](https://user-images.githubusercontent.com/59443454/189523909-81109177-bb51-4d8d-a437-bd20ea445c43.png)
+![Screenshot from 2022-09-11 16-47-51](https://user-images.githubusercontent.com/59443454/189524712-b9f68356-3dee-4575-a303-d247591ed064.png)
+
 
 
 Open another two terminal side by side and run client
@@ -22,5 +23,5 @@ Now connect the client to localhost
 ```sh
 localhost:5000
 ```
+![Screenshot from 2022-09-11 16-50-34](https://user-images.githubusercontent.com/59443454/189524716-82b2a091-9511-487f-93ff-2eaa0832ba15.png)
 
-![Screenshot from 2022-09-11 16-23-38](https://user-images.githubusercontent.com/59443454/189523912-9ebc8b2c-bdeb-423e-ba8d-1bef04af27bb.png)
